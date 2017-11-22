@@ -1,2 +1,7 @@
+
 # Hello-World
-this is my first Git Repository
+
+Hi, humens!
+This is my first GIT repository!
+Just shack!
+
